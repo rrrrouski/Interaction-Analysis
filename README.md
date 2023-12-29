@@ -8,7 +8,7 @@ The project code is found in a Jupyter Notebook file and does not require specif
 
 ## Documentation
 
-The documentation is found under the Documentation file.
+The documentation is found under the Documentation file. It includes a broad explanation and motivation for the project, problem formulation, dataset handling, methods used, as well as results and discussions. 
 
 ## References
 
