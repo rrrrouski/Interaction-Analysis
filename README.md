@@ -10,6 +10,10 @@ The project code is found in a Jupyter Notebook file and does not require specif
 
 The documentation is found under the Documentation file. It includes a broad explanation and motivation for the project, problem formulation, dataset handling, methods used, as well as results and discussions. 
 
+## Data
+
+Data: https://physionet.org/content/sleep-accel/1.0.0/
+
 ## References
 
 Walch, O., Huang, Y., Forger, D., & Goldstein, C. (2019). Sleep stage prediction with raw acceleration and photoplethysmography heart rate data derived from a consumer wearable device. Sleep, 42(12), zsz180. https://doi.org/10.1093/sleep/zsz180
